@@ -20,7 +20,7 @@ export function SignIn() {
     return (
         <Container>
             <Form>
-                <h1>Rocket Notes</h1>
+                <h1>Renato Notes</h1>
                 <p>Aplicação para salvar e gerenciar seus links uteis.</p>
 
                 <h2>Faça seu login</h2>
